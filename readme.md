@@ -1,4 +1,4 @@
-# Puzzle Game
+# Traveller Zeppelin Problem
 
 <p align="center">
 <img src="git_images/image2.png" width="400" height="275">
